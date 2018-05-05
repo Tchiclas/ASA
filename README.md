@@ -1,2 +1,2 @@
 # ASA
-Both projects from my Algorthim's analysis class
+Both projects from my Analysis and Synthesis of Algorithms class
